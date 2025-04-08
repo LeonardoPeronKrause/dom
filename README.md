@@ -5,10 +5,12 @@ Um pequeno jogo de dados feito com HTML, CSS e JavaScript! Ao atualizar a págin
 Geração aleatória de números entre 1 e 6 para simular os dados.
 Atualização automática das imagens dos dados.
 Mensagem de vitória dinâmica para Player 1, Player 2 ou empate.
+
 💻 Tecnologias
 HTML5
 CSS3
 JavaScript
+
 🧠 Como funciona?
 Ao carregar a página, dois números aleatórios são gerados (de 1 a 6).
 As imagens dos dados são atualizadas com base nesses números.
